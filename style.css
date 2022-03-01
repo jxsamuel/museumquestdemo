@@ -288,6 +288,7 @@ li a {
 
 
 /* prev/next visibility */
+
 /* all */
 .gal >s:target ~ .prevNext >* {      visibility: hidden;}
 
