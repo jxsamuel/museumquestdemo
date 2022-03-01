@@ -5,7 +5,7 @@
 }
 
 .bg{
-  background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/BackgroundImage.png) no-repeat;
+  background: url(BackgroundImage.png) no-repeat;
   margin: 0;
   padding: 0;
   position: fixed;
@@ -67,7 +67,7 @@ li a {
   margin-top: 5vh;
   margin-bottom: -50vh;
   margin-left: 2%;
-  background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/CharactersBackground.png) no-repeat;
+  background: url(CharactersBackground.png) no-repeat;
   background-size: contain;
 }
 
@@ -106,7 +106,7 @@ li a {
   margin: 20vh;
   height: 60vh;
   transform: translateY(25vh);
-  background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/GameplayBackground.png) no-repeat;
+  background: url(GameplayBackground.png) no-repeat;
   background-size: contain;
 }
 
@@ -274,17 +274,17 @@ li a {
 
 /* active */
 #s1:target ~ .bullets >*:nth-child(1) .image { visibility: hidden;}
-#s1:target ~ .bullets >*:nth-child(1) {background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/Atticus_chrsel_active.png);  background-size: 100% }
+#s1:target ~ .bullets >*:nth-child(1) {background: url(Atticus_chrsel_active.png);  background-size: 100% }
 #s2:target ~ .bullets >*:nth-child(2) .image2 { visibility: hidden;}
-#s2:target ~ .bullets >*:nth-child(2) {background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/Margrace_chrsel_active.png);  background-size: 100% }
+#s2:target ~ .bullets >*:nth-child(2) {background: url(Margrace_chrsel_active.png);  background-size: 100% }
 #s3:target ~ .bullets >*:nth-child(3) .image3 { visibility: hidden;}
-#s3:target ~ .bullets >*:nth-child(3) {background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/Barrin_chrsel_active.png);  background-size: 100% }
+#s3:target ~ .bullets >*:nth-child(3) {background: url(Barrin_chrsel_active.png);  background-size: 100% }
 #s4:target ~ .bullets >*:nth-child(4) .image4 { visibility: hidden;}
-#s4:target ~ .bullets >*:nth-child(4) {background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/Tulso_chrsel_active.png);  background-size: 100% }
+#s4:target ~ .bullets >*:nth-child(4) {background: url(Tulso_chrsel_active.png);  background-size: 100% }
 #s5:target ~ .bullets >*:nth-child(5) .image5 { visibility: hidden;}
-#s5:target ~ .bullets >*:nth-child(5) {background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/Mynx_chrsel_active.png);  background-size: 100% }
+#s5:target ~ .bullets >*:nth-child(5) {background: url(Mynx_chrsel_active.png);  background-size: 100% }
 #s6:target ~ .bullets >*:nth-child(6) .image6 { visibility: hidden;}
-#s6:target ~ .bullets >*:nth-child(6) {background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/Serulean_chrsel_active.png);  background-size: 100% }
+#s6:target ~ .bullets >*:nth-child(6) {background: url(Serulean_chrsel_active.png);  background-size: 100% }
 
 
 /* prev/next visibility */
@@ -370,7 +370,6 @@ li a {
     margin: 20vh;
     height: 60vh;
     transform: translateY(40vh);
-    background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/GameplayBackground.png) no-repeat;
     background-size: contain;
     }
 
@@ -388,7 +387,6 @@ li a {
     margin: 20vh;
     height: 60vh;
     transform: translateY(60vh);
-    background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/GameplayBackground.png) no-repeat;
     background-size: contain;
     }
 
@@ -410,7 +408,6 @@ li a {
     margin: 20vh;
     height: 60vh;
     transform: translateY(80vh);
-    background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/GameplayBackground.png) no-repeat;
     background-size: contain;
     }
 
@@ -421,7 +418,6 @@ li a {
     margin-top: 5vh;
     margin-bottom: -50vh;
     margin-left: 2%;
-    background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/CharactersBackground.png) no-repeat;
     background-size: contain;
   }
 
@@ -481,7 +477,6 @@ li a {
     margin-top: 5vh;
     margin-bottom: -50vh;
     margin-left: 2%;
-    background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/CharactersBackground.png) no-repeat;
     background-size: contain;
   }
 
@@ -505,7 +500,6 @@ li a {
     margin-top: 5vh;
     margin-bottom: -50vh;
     margin-left: 2%;
-    background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/CharactersBackground.png) no-repeat;
     background-size: contain;
   }
 
@@ -583,7 +577,6 @@ li a {
     margin-top: 5vh;
     margin-bottom: -50vh;
     margin-left: 0%;
-    background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/CharactersBackground.png) no-repeat;
     background-size: contain;
   }
 
@@ -630,7 +623,6 @@ li a {
     margin-top: 5vh;
     margin-bottom: -50vh;
     margin-left: 0%;
-    background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/CharactersBackground.png) no-repeat;
     background-size: contain;
   }
 
@@ -660,7 +652,6 @@ li a {
     margin-top: 5vh;
     margin-bottom: -50vh;
     margin-left: 0%;
-    background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/CharactersBackground.png) no-repeat;
     background-size: contain;
   }
 
@@ -695,7 +686,6 @@ li a {
     margin-top: 5vh;
     margin-bottom: -50vh;
     margin-left: 0%;
-    background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/CharactersBackground.png) no-repeat;
     background-size: contain;
   }
 
@@ -725,7 +715,6 @@ li a {
     margin-top: 5vh;
     margin-bottom: -50vh;
     margin-left: 0%;
-    background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/CharactersBackground.png) no-repeat;
     background-size: contain;
   }
 
@@ -755,7 +744,6 @@ li a {
     margin-top: 5vh;
     margin-bottom: -50vh;
     margin-left: 0%;
-    background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/CharactersBackground.png) no-repeat;
     background-size: contain;
   }
 
@@ -789,7 +777,6 @@ li a {
     margin-top: 5vh;
     margin-bottom: -50vh;
     margin-left: 0%;
-    background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/CharactersBackground.png) no-repeat;
     background-size: contain;
   }
 
@@ -824,7 +811,6 @@ li a {
     margin-top: 5vh;
     margin-bottom: -50vh;
     margin-left: 0%;
-    background: url(/Users/jacobsamuel/Desktop/drive-download-20220225T200415Z-001/Assets/CharactersBackground.png) no-repeat;
     background-size: contain;
   }
 
